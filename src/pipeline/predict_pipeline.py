@@ -30,7 +30,7 @@ class CustomData:
                     race_ethnicity: str,
                     parental_level_of_education: str,
                     lunch: int, 
-                    test_preparation_sourse: int,
+                    test_preparation_course,
                     reading_score: int,
                     writing_score: int):
         self.gender = gender
